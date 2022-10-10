@@ -1,0 +1,2 @@
+<img src="/j5storelogo.png" width="200" height="200"/>
+<?php /**PATH /Users/rickypranata/Desktop/laravelApp/shamo-backend/resources/views/vendor/jetstream/components/application-logo.blade.php ENDPATH**/ ?>
